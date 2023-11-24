@@ -4,6 +4,7 @@ int main(){
   int x = 10;
   int y = x*2;
   int z = x + y;
+  int h;
   printf("x=%d,y=%d,z=%d\n",x,y,z);
 
   int price = 500;
